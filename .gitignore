@@ -1,0 +1,10 @@
+# Local editor and Python byproducts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+Thumbs.db
+.DS_Store
+~$*
+*.tmp
+*.log

@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业横向项目本子"
+  short_description: "按委托要求撰写工程可研与技术标，配套可编辑技术路线、场景图和论文方法图"
+  default_prompt: "用 $industry-proposal-zh 根据我提供的项目需求写横向项目本子，配好技术路线图，并核对任务、成果和验收要求。"
