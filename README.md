@@ -23,6 +23,7 @@
 | 材料 | 用途 |
 | --- | --- |
 | [范本与写作示例](references/proposal-writing.md) | 四份初始范本的章、图、表定位，研究任务与验收写法 |
+| [独立报告的组织与引用](references/standalone-report.md) | 把材料标签还原为具体内容，整合多份资料，统一文内标引与参考文献 |
 | [技术路线母版](assets/技术路线图母版.pptx) | 由 OTDR 路线页直接改成的原生可编辑 PPT |
 | [母版使用方法](references/route-map.md) | 根据实际依赖增删节点、导出并插入正文 |
 | [场景与论文配图](references/figures.md) | 生图、裁图、图前图后衔接 |
